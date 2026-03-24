@@ -1,2 +1,2 @@
-# Scan-Bot-9000
+# Stockscan
 Warehouse inventory scanner
